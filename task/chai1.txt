@@ -1,0 +1,8 @@
+Class College:
+def __init__(self, name, age):
+self.name = name
+self.age = age
+def f1(self):
+print(self.name, slef.age)
+c = College(chaitanya, 25)
+print(c)
